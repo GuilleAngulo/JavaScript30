@@ -125,5 +125,5 @@ A Whack A Mole game with random values in order to have a different games each t
 
 
 
-## Author
+## Acknowledgments
 **Wes Bos**
