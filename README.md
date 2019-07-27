@@ -1,6 +1,7 @@
 # JavaScript30
-30 Day Vanilla JS Coding Challenge by @wesbos (https://JavaScript30.com)
-CHALLENGES:
+30 Day Vanilla JS Coding Challenge by Wes Bos (https://JavaScript30.com)
+
+# Challenges:
 
 ## 01 - DrumKit
 
@@ -122,8 +123,3 @@ Custom timer, where you can set predeterminated timer values or insert new input
 ## 30 - Whack A Mole
 
 A Whack A Mole game with random values in order to have a different games each time. With score and random time (between min and max values).
-
-
-
-## Acknowledgments
-**Wes Bos**
