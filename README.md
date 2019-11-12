@@ -1,5 +1,5 @@
 # JavaScript30
-30 Day Vanilla JS Coding Challenge by Wes Bos (https://JavaScript30.com)
+30 Day Vanilla JS Coding Challenge by @wesbos (https://JavaScript30.com)
 
 # Challenges:
 
